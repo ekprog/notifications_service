@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option go_package = "pb/api";
+
+import "google/protobuf/timestamp.proto";
+
+
+message Notification {
+  int32 id = 1;
+  string title = 2;
+  string text = 3;
+  int32 userId = 4;
+  google.protobuf.Timestamp created_at = 6;
+  google.protobuf.Timestamp updated_at = 7;
+  google.protobuf.Timestamp deleted_at = 8;
+}

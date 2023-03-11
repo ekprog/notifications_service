@@ -1,0 +1,25 @@
+[INFO](2023-03-11 11:15:49) /Users/egorkozelskij/GolandProjects/iredy/microservice_clean_design/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 11:15:49) /Users/egorkozelskij/GolandProjects/iredy/microservice_clean_design/app/logs.go:64 New job was successfully registered - test1
+[FATAL](2023-03-11 11:15:49) /Users/egorkozelskij/GolandProjects/iredy/microservice_clean_design/app/logs.go:72 listen tcp 127.0.0.1:8086: bind: address already in use
+[INFO](2023-03-11 11:16:00) /Users/egorkozelskij/GolandProjects/iredy/microservice_clean_design/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 11:16:00) /Users/egorkozelskij/GolandProjects/iredy/microservice_clean_design/app/logs.go:64 New job was successfully registered - test1
+[INFO](2023-03-11 11:16:00) /Users/egorkozelskij/GolandProjects/iredy/microservice_clean_design/app/logs.go:64 GRPC server listening at 127.0.0.1:8093
+[INFO](2023-03-11 11:56:05) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 11:56:47) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 11:57:49) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 11:58:24) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 11:59:11) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 11:59:12) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 New job was successfully registered - test1
+[INFO](2023-03-11 11:59:12) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 GRPC server listening at 127.0.0.1:8093
+[INFO](2023-03-11 11:59:19) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 11:59:19) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 New job was successfully registered - test1
+[INFO](2023-03-11 11:59:19) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 GRPC server listening at 127.0.0.1:8093
+[INFO](2023-03-11 11:59:29) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 11:59:29) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 New job was successfully registered - test1
+[INFO](2023-03-11 11:59:29) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 GRPC server listening at 127.0.0.1:8093
+[INFO](2023-03-11 12:00:04) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 12:00:04) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 GRPC server listening at 127.0.0.1:8093
+[INFO](2023-03-11 12:00:58) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 12:00:58) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 GRPC server listening at 127.0.0.1:8093
+[INFO](2023-03-11 12:01:59) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 Database connection was created
+[INFO](2023-03-11 12:01:59) /Users/egorkozelskij/GolandProjects/iredy/notifications_service/app/logs.go:64 GRPC server listening at 127.0.0.1:8095

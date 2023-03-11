@@ -1,0 +1,1 @@
+[FATAL](2023-03-11 11:15:49) /Users/egorkozelskij/GolandProjects/iredy/microservice_clean_design/app/logs.go:72 listen tcp 127.0.0.1:8086: bind: address already in use

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option go_package = "pb/api";
+
+import "api/app.proto";
+import "api/message.proto";
+
+// GET PROJECTS
+
+message GetRequest {}
+
+message GetResponse {
+  Status status = 1;
+  repeated Notification notifications = 2;
+}

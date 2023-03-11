@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option go_package = "pb/api";
+
+import "api/app.proto";
+import "api/delivery.proto";
+
+package pb;
+
+// The service definition
+service NotificationsService {
+
+  // Projects
+  rpc Get (GetRequest) returns (GetResponse) {}
+}
